@@ -1,5 +1,4 @@
 /*
-   Part of the SpamTracker codebase
    Copyright (C) 2007  Anirudh Ramachandran <avr@cc.gatech.edu>
 
    This program is free software; you can redistribute it and/or modify
